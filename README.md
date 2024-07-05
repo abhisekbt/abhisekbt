@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-854.jpg?w=900&t=st=1720199857~exp=1720200457~hmac=44c921ad057dd5c481d88f1077666dbc5ebfb7cc058fc8a5717cfd148aa908d1)](https://babhishek.com.np)
 <h1 align="center">Hi 👋, I'm Abhishek Bhattarai</h1>
 <h3 align="center">abhisekbt</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R6YWVkZmYyeXMzZXZ1MmEyZXFseWdlcjM3dHNvaGswNDFzNm83eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">
