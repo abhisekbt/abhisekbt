@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhattarai</h1>
 <h3 align="center">abhisekbt</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R6YWVkZmYyeXMzZXZ1MmEyZXFseWdlcjM3dHNvaGswNDFzNm83eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">
+<img align="left" alt="Coding" height="350" width="860" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R6YWVkZmYyeXMzZXZ1MmEyZXFseWdlcjM3dHNvaGswNDFzNm83eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekbt&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekbt" /> </p>
 
