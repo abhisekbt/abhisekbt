@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [babhishek.com.np](babhishek.com.np)
 
-- 💬 Ask me about **react,MERN**
+- 💬 Ask me about **JS,MERN**
 
 - 📫 How to reach me **abhishekbhattarai2017@gmail.com**
 
